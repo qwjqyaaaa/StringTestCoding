@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Java application designed to process strings by either removing or replacing groups of consecutive characters. The application uses the Strategy and Template Method design patterns to provide flexible and extensible string processing capabilities.
+This is a Java application designed to process strings by either removing or replacing groups of consecutive characters. The application uses the Strategy and Template Method design patterns to provide flexible and extensible string processing capabilities.The string removal and replacement functionalities can be tested through MainTest, StringRemovalProcessorTest, and StringReplacementProcessorTest.
 
 ## Features
 
